@@ -300,7 +300,7 @@ h2 {
   right: 0;
   width: 25px;
   height: 4px;
-  background: #121212;
+  background: #5c5c5c;
 }
 
 .header__burger:after,
@@ -313,7 +313,7 @@ h2 {
   right: 0;
   width: 25px;
   height: 4px;
-  background: #121212;
+  background: #5c5c5c;
 }
 
 .header__burger:before {
