@@ -112,7 +112,7 @@ body {
 }
 
 .preview {
-  min-height: 100%;
+  padding-bottom: 103px;
 }
 
 .preview__info {
@@ -197,7 +197,6 @@ h2 {
 }
 
 .about-me {
-  min-height: 100%;
   padding: 120px 0px 107px;
   background: #F6F6F6;
 }
@@ -221,7 +220,6 @@ h2 {
 }
 
 .skills {
-  min-height: 100%;
   padding: 91px 0px 110px;
 }
 
@@ -362,7 +360,6 @@ h2 {
 }
 
 .footer {
-  min-height: 100%;
   padding: 115px 0px 120px;
 }
 
