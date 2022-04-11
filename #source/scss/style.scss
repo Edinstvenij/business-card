@@ -1,6 +1,11 @@
 @import "_nullstyle";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,600;0,700;1,600&display=swap');
 
+
+:root {
+  color-scheme: light;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -416,6 +421,11 @@ h2 {
     color: #000;
   }
 }
+
+
+
+// media
+
 
 @media(max-width:768px) {
   .container {
