@@ -426,6 +426,13 @@ h2 {
 
 // media
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #000;
+    background: #ffffff;
+
+  }
+}
 
 @media(max-width:768px) {
   .container {
