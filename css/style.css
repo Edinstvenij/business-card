@@ -467,10 +467,9 @@ h2 {
 }
 
 @media (prefers-color-scheme: dark) {
-  .header__burger:after,
-  .header__burger span,
-  .header__burger:before {
-    background: red;
+  body {
+    color: #000;
+    background: #ffffff;
   }
 }
 
