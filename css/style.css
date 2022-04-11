@@ -298,7 +298,7 @@ h2 {
   right: 0;
   width: 25px;
   height: 4px;
-  background: #5c5c5c;
+  background: #000;
 }
 
 .header__burger:after,
@@ -311,7 +311,7 @@ h2 {
   right: 0;
   width: 25px;
   height: 4px;
-  background: #5c5c5c;
+  background: #000;
 }
 
 .header__burger:before {
