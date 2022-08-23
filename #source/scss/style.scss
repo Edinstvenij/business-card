@@ -11,6 +11,24 @@ body {
 }
 
 
+
+.cv {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-weight: 700;
+
+
+  a {
+    transition: color 0.4s;
+    color: rgb(28, 23, 63);
+  }
+
+  a:hover {
+    color: rgb(0, 21, 255);
+  }
+}
+
 //container
 
 .container {
@@ -283,7 +301,9 @@ h2 {
     margin-bottom: 47px;
   }
 
-
+  &__item {
+    margin-bottom: 20px;
+  }
 
   &__img {
     margin-bottom: 25px;
