@@ -295,7 +295,7 @@ h2 {
 
 
 .portfolio {
-  padding: 23px 0px 96px;
+  padding: 23px 0px 76px;
   background: #F6F6F6;
 
   &__title {
@@ -303,7 +303,7 @@ h2 {
   }
 
   &__item {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 
   &__img {
@@ -318,14 +318,16 @@ h2 {
     text-align: center;
 
     a {
+      font-weight: 600;
       transition: all 0.5s;
       color: black;
     }
+
+    a:hover {
+      color: #231b96;
+    }
   }
 
-  &__name a:hover {
-    text-decoration: underline;
-  }
 }
 
 
