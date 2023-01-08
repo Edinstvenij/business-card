@@ -69,11 +69,11 @@ $(document).ready(function () {
       //preview
       'mySurname': 'Vigovsky',
       'myName': 'Yuri',
-      'myAboutMe': 'Web Developer',
+      'myAboutMe': 'PHP Developer',
       'myYears': '19 years, Odessa',
       //About me
       'aboutTitle': 'About me',
-      'aboutP1': " Hi, I'm Yuri - Web Developer from Odessa. I am interested in development and everything connected with it.",
+      'aboutP1': " Hi, I'm Yuri - PHP Developer from Odessa. I am interested in development and everything connected with it.",
       'aboutP2': ' Completed courses from Hillel IT School on PHP.',
       'aboutP3': 'Ready to implement great projects with great people.',
       //Skills
