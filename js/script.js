@@ -74,7 +74,7 @@ $(document).ready(function () {
       //About me
       'aboutTitle': 'About me',
       'aboutP1': " Hi, I'm Yuri - Web Developer from Odessa. I am interested in development and everything connected with it.",
-      'aboutP2': 'Completed courses from WAYUP on layout.',
+      'aboutP2': ' Completed courses from Hillel IT School on PHP.',
       'aboutP3': 'Ready to implement great projects with great people.',
       //Skills
       'skillsTitle': 'Skills',
