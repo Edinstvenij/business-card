@@ -70,7 +70,7 @@ $(document).ready(function () {
       'mySurname': 'Vigovsky',
       'myName': 'Yuri',
       'myAboutMe': 'PHP Developer',
-      'myYears': '19 years, Odessa',
+      'myYears': '20 years, Odessa',
       //About me
       'aboutTitle': 'About me',
       'aboutP1': " Hi, I'm Yuri - PHP Developer from Odessa. I am interested in development and everything connected with it.",
@@ -101,7 +101,7 @@ $(document).ready(function () {
       'mySurname': 'Виговский',
       'myName': 'Юрий',
       'myAboutMe': 'PHP разработчик',
-      'myYears': '19 лет, Одесса',
+      'myYears': '20 лет, Одесса',
       // О себе
       'aboutTitle': 'О себе',
       'aboutP1': "Привет, я Юрий —  PHP разработчик  из Одессы. Интересуюсь разработкой и всем, что с ним связано.",
